@@ -2,7 +2,7 @@
 
 import { useMemo, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
-import { ArrowLeft, ArrowUpLeft, Search, Sparkles, X } from 'lucide-react'
+import { ArrowLeft, Search, X } from 'lucide-react'
 import type { Perfume } from '@/lib/types'
 import PerfumeCard from './PerfumeCard'
 import PerfumeModal from './PerfumeModal'
@@ -19,8 +19,6 @@ export default function Gallery({ perfumes }: GalleryProps) {
   const brandScrollRef = useRef<HTMLDivElement>(null)
 
   const brands = useMemo(() => ['الكل', ...Array.from(new Set(perfumes.map((p) => p.brand)))], [perfumes])
-  const categories = useMemo(() => GENDERS.slice(1).map((name) => ({ name, count: perfumes.filter((p) => p.gender === name).length })), [perfumes])
-  const featured = perfumes.slice(0, 4)
   const heroPerfume = perfumes[0]
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase()
@@ -42,7 +40,6 @@ export default function Gallery({ perfumes }: GalleryProps) {
           </a>
           <nav className="hidden items-center gap-8 text-sm text-muted-foreground md:flex" aria-label="التنقل الرئيسي">
             <a className="transition-colors hover:text-primary" href="#collection">المجموعة</a>
-            <a className="transition-colors hover:text-primary" href="#brands">الماركات</a>
           </nav>
           <div className="flex items-center gap-3"><span className="hidden text-xs text-muted-foreground lg:block">{filtered.length} عطر</span><ThemeToggle /></div>
         </div>
@@ -65,11 +62,8 @@ export default function Gallery({ perfumes }: GalleryProps) {
           </motion.div>
         </section>
 
-        <section className="mx-auto max-w-7xl px-5 py-16 lg:px-8 lg:py-24"><div className="mb-8 flex items-end justify-between"><div><h2 className="mt-3 font-display text-3xl font-semibold">عالم من الروائح</h2></div><Sparkles className="text-primary/40" /></div><div className="grid gap-px overflow-hidden rounded-2xl border border-border bg-border sm:grid-cols-3">{categories.map((category, index) => <a key={category.name} href="#collection" onClick={() => setSelectedGender(category.name)} className="group bg-background p-7 transition-colors hover:bg-secondary"><span className="text-xs text-muted-foreground">0{index + 1}</span><h3 className="mt-10 font-display text-2xl font-semibold group-hover:text-primary">{category.name}</h3><p className="mt-3 text-xs text-muted-foreground">{category.count} عطر مختار <ArrowUpLeft className="inline transition-transform group-hover:-translate-x-1 group-hover:-translate-y-1" /></p></a>)}</div></section>
-
         <section id="collection" className="bg-secondary/50"><div className="mx-auto max-w-7xl px-5 py-16 lg:px-8 lg:py-24"><div className="flex flex-col justify-between gap-6 border-b border-border pb-8 lg:flex-row lg:items-end"><div><p className="text-xs tracking-[0.22em] text-primary">THE COLLECTION</p><h2 className="mt-3 font-display text-4xl font-semibold">اختيارات فيافي</h2></div><div className="relative w-full max-w-sm"><Search className="absolute right-3 top-1/2 -translate-y-1/2 text-primary" /><input type="search" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="ابحث عن عطر أو ماركة..." aria-label="ابحث عن عطر أو ماركة" className="h-11 w-full rounded-full border border-border bg-background pr-10 pl-10 text-sm outline-none transition focus:border-primary focus:ring-2 focus:ring-primary/20" />{search && <button onClick={() => setSearch('')} aria-label="مسح البحث" className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground"><X /></button>}</div></div><div className="flex items-center gap-2 overflow-x-auto py-6" ref={brandScrollRef} style={{ scrollbarWidth: 'none' }}>{GENDERS.map((g) => <button key={g} onClick={() => setSelectedGender(g)} className={`shrink-0 rounded-full px-4 py-2 text-xs transition ${selectedGender === g ? 'bg-primary text-primary-foreground' : 'border border-border text-muted-foreground hover:border-primary hover:text-primary'}`}>{g}</button>)}<span className="mx-2 h-5 w-px bg-border" />{brands.map((brand) => <button key={brand} onClick={() => setSelectedBrand(brand)} className={`shrink-0 rounded-full px-4 py-2 text-xs transition ${selectedBrand === brand ? 'bg-primary/10 text-primary' : 'text-muted-foreground hover:text-primary'}`}>{brand}</button>)}</div>{filtered.length === 0 ? <div className="flex min-h-64 flex-col items-center justify-center gap-3 text-center"><p className="text-sm text-muted-foreground">لا توجد عطور تطابق البحث</p><button onClick={resetFilters} className="text-xs text-primary underline underline-offset-4">إعادة ضبط الفلاتر</button></div> : <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">{filtered.map((perfume, i) => <PerfumeCard key={perfume.name + perfume.brand} perfume={perfume} index={i} layoutId={`perfume-${perfume.name}`} onClick={() => setActivePerfume(perfume)} />)}</div>}<p className="mt-8 text-center text-xs text-muted-foreground">عرض {filtered.length} من {perfumes.length} عطر</p></div></section>
 
-        <section id="brands" className="mx-auto max-w-7xl px-5 py-16 lg:px-8 lg:py-24"><div className="flex flex-col gap-8 sm:flex-row sm:items-center sm:justify-between"><div><p className="text-xs tracking-[0.22em] text-primary">OUR WORLD</p></div><div className="grid flex-1 gap-x-8 gap-y-4 sm:max-w-2xl sm:grid-cols-3">{brands.slice(1, 7).map((brand) => <button key={brand} onClick={() => { setSelectedBrand(brand); document.getElementById('collection')?.scrollIntoView({ behavior: 'smooth' }) }} className="border-b border-border pb-3 text-right text-sm text-muted-foreground transition hover:border-primary hover:text-primary">{brand}</button>)}</div></div></section>
         <section className="bg-primary text-primary-foreground"><div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-8 px-5 py-14 sm:flex-row sm:items-center lg:px-8"><div><p className="text-xs tracking-[0.25em] opacity-70">A SCENT TO REMEMBER</p><h2 className="mt-3 font-display text-3xl font-semibold">ابدأ حكايتك من هنا.</h2></div><a href="#collection" className="inline-flex items-center gap-2 rounded-full bg-background px-6 py-3 text-sm font-semibold text-foreground transition hover:-translate-y-0.5">اكتشف العطور <ArrowLeft data-icon="inline-start" /></a></div></section>
       </main>
       <footer className="mx-auto flex max-w-7xl flex-col gap-4 px-5 py-8 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between lg:px-8"><span className="font-display text-lg font-bold text-primary">فيافي</span><span>عطور تُشبهك، حضور لا يُنسى.</span><span>© 2024 FIAFI</span></footer>
