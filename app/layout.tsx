@@ -17,13 +17,18 @@ const tajawal = Tajawal({
 });
 
 export const metadata: Metadata = {
-  title: "فيافي للزيوت العطرية والعود الفاخر  | مجموعة العطور الفاخرة",
-  description: "تجربة عطور فاخرة — اكتشف أرقى مجموعة عطور فيافي مختارة بعناية",
-  generator: "v0.app",
+  title: "فيافي | عطور تُشبهك",
+  description: "اكتشف مجموعة فيافي المختارة من أرقى العطور العالمية. عطرك، توقيعك.",
+  openGraph: {
+    title: "فيافي | عطور تُشبهك",
+    description: "مجموعة عطور فاخرة مختارة بعناية لتكتب حضورك.",
+    locale: "ar_SA",
+    type: "website",
+  },
 };
 export const viewport: Viewport = {
-  colorScheme: "light dark", // بدّلت الترتيب — يفضّل light كافتراضي
-  themeColor: "#0B0B14",
+  colorScheme: "light dark",
+  themeColor: "#7A3E7C",
   width: "device-width",
   initialScale: 1,
   maximumScale: 1,

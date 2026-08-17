@@ -181,7 +181,7 @@ export default function Gallery({ perfumes }: GalleryProps) {
                   transition-all duration-300 whitespace-nowrap
                   ${
                     selectedBrand === brand
-                      ? "bg-gold text-background font-bold border-gold shadow-[0_0_16px_rgba(200,160,60,0.4)]"
+                      ? "bg-gold  font-bold border-gold shadow-[0_0_16px_rgba(200,160,60,0.4)]"
                       : "bg-transparent border-gold/30 text-muted-foreground hover:border-gold/60 hover:text-foreground"
                   }
                 `}
@@ -211,7 +211,7 @@ export default function Gallery({ perfumes }: GalleryProps) {
                 setSelectedBrand("الكل");
                 setSelectedGender("الكل");
               }}
-              className="text-xs text-gold hover:text-gold-light underline underline-offset-4 mt-1"
+              className="text-xs  underline underline-offset-4 mt-1"
             >
               إعادة ضبط الفلاتر
             </button>
