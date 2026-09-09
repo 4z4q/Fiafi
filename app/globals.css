@@ -39,6 +39,7 @@
   --radius-xl: calc(var(--radius) * 1.4);
   --font-sans: "Cairo", sans-serif;
   --font-display: "Tajawal", sans-serif;
+  --color-gold: var(--gold);
 }
 
 :root {
@@ -64,6 +65,7 @@
   --ring: oklch(0.55 0.12 320);
   --destructive: oklch(0.58 0.2 25);
   --radius: 0.85rem;
+  --gold: oklch(0.62 0.13 82);
   --sidebar: oklch(0.98 0.01 320);
   --sidebar-foreground: var(--foreground);
   --sidebar-primary: var(--primary);
@@ -93,6 +95,7 @@ html.dark {
   --primary: oklch(0.64 0.14 320);
   --primary-foreground: oklch(0.14 0.025 315);
   --border: oklch(0.36 0.06 315);
+  --gold: oklch(0.78 0.14 82);
   --input: var(--border);
   --ring: var(--primary);
   --sidebar: var(--card);

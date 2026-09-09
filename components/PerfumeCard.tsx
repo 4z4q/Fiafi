@@ -1,101 +1,80 @@
-'use client'
+"use client";
 
-import { useState } from 'react'
-import { motion } from 'framer-motion'
-import Image from 'next/image'
-import type { Perfume } from '@/lib/types'
+import { useState } from "react";
+import { motion } from "framer-motion";
+import Image from "next/image";
+import type { Perfume } from "@/lib/types";
 
 interface PerfumeCardProps {
-  perfume: Perfume
-  index: number
-  onClick: () => void
-  layoutId: string
+  perfume: Perfume;
+  index: number;
+  onClick: () => void;
+  layoutId: string;
 }
-
 function ImageSkeleton() {
-  return (
-    <div className="absolute inset-0 skeleton-shimmer" />
-  )
+  return <div className="absolute inset-0 skeleton-shimmer" />;
 }
 
-export default function PerfumeCard({ perfume, index, onClick, layoutId }: PerfumeCardProps) {
-  const [imgLoaded, setImgLoaded] = useState(false)
-  const topAccords = perfume.main_accords.slice(0, 3)
-
+export default function PerfumeCard({
+  perfume,
+  index,
+  onClick,
+  layoutId,
+}: PerfumeCardProps) {
+  const [imgLoaded, setImgLoaded] = useState(false);
+  const topAccords = perfume.main_accords.slice(0, 3);
+  // سقف للتأخير عشان الكروت المتأخرة بالقائمة ما تنتظر ثواني طويلة عشان تظهر
+  const delay = Math.min(index * 0.04, 0.4);
   return (
     <motion.div
       layoutId={layoutId}
-      initial={{ opacity: 0, y: 32 }}
+      initial={{ opacity: 0, y: 24 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{
-        duration: 0.5,
-        delay: index * 0.06,
-        ease: [0.25, 0.46, 0.45, 0.94],
-      }}
-      whileTap={{ scale: 0.97 }}
+      transition={{ duration: 0.5, delay }}
+      whileTap={{ scale: 0.98 }}
       onClick={onClick}
-      className="group cursor-pointer relative"
+      className="group cursor-pointer"
     >
-      <div
-        className="
-          relative overflow-hidden rounded-2xl border border-gold/15
-          bg-surface transition-all duration-400 ease-in-out
-          hover:border-gold/50 hover:shadow-[0_0_32px_rgba(200,160,60,0.18)]
-          active:border-gold/60
-        "
-      >
-        {/* Image area */}
-        <div className="relative aspect-[3/4] overflow-hidden">
+      <div className="relative overflow-hidden rounded-2xl border border-border bg-card transition-all duration-500 hover:-translate-y-1 hover:border-primary/50 hover:shadow-xl hover:shadow-primary/10">
+        <div className="relative aspect-[3/4] overflow-hidden bg-secondary/60">
           {!imgLoaded && <ImageSkeleton />}
           <Image
             src={perfume.image_url}
             alt={perfume.name}
             fill
-            className={`object-contain transition-all  duration-500 group-hover:scale-105 ${imgLoaded ? 'opacity-100' : 'opacity-0'}`}
-            // sizes="(max-width: 768px) 50vw, 25vw"
+            sizes="(max-width: 640px) 50vw, (max-width: 1024px) 25vw, 20vw"
+            className={`object-contain p-3 transition duration-700 group-hover:scale-105 ${
+              imgLoaded ? "opacity-100" : "opacity-0"
+            }`}
             onLoad={() => setImgLoaded(true)}
-            // crossOrigin="anonymous"
           />
-
-          {/* Gender badge */}
-          <div className="absolute top-2 right-2 z-10">
-            <span className="text-[10px] font-semibold px-2 py-0.5 rounded-full bg-background/70 border border-gold/30 text-gold-light backdrop-blur-sm">
-              {perfume.gender}
-            </span>
-          </div>
-
-          {/* Overlay gradient on hover */}
-          <div className="absolute inset-0 bg-gradient-to-t from-background/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-400" />
+          <span className="absolute right-3 top-3 rounded-full border border-border bg-background/80 px-2 py-1 text-[10px] text-muted-foreground backdrop-blur-sm">
+            {perfume.gender}
+          </span>
         </div>
-
-        {/* Card footer */}
-        <div className="p-3 space-y-2">
-          {/* Brand */}
-          <p className="text-[11px] font-light tracking-widest text-muted-foreground uppercase">
+        <div className="flex flex-col gap-2 p-3">
+          <p className="truncate text-[10px] tracking-[0.18em] text-muted-foreground">
             {perfume.brand}
           </p>
-
-          {/* Name */}
-          <h3 className="text-sm font-semibold text-foreground leading-snug line-clamp-2 text-balance">
+          <h3 className="line-clamp-2 text-sm font-semibold leading-snug text-foreground">
             {perfume.name}
           </h3>
-
-          {/* Accord color dots */}
           <div className="flex items-center gap-1.5 pt-1">
             {topAccords.map((accord) => (
-              <div key={accord.name} className="flex items-center gap-1">
-                <div
-                  className="w-2.5 h-2.5 rounded-full border border-white/10 shadow-sm flex-shrink-0"
-                  style={{ backgroundColor: accord.color_hex }}
-                  title={accord.name}
-                />
-              </div>
+              <span
+                key={accord.name}
+                title={accord.name}
+                className="size-2.5 rounded-full border border-border"
+                style={{ backgroundColor: accord.color_hex }}
+              />
             ))}
             {topAccords.length > 0 && (
-              <div
-                className="h-1.5 rounded-full flex-1 overflow-hidden"
+              <span
+                className="h-1 flex-1 rounded-full"
                 style={{
-                  background: `linear-gradient(to left, ${topAccords.map(a => a.color_hex).join(', ')})`,
+                  background: `linear-gradient(to left, ${topAccords
+                    .map((a) => a.color_hex)
+                    .join(", ")})`,
                 }}
               />
             )}
@@ -103,5 +82,5 @@ export default function PerfumeCard({ perfume, index, onClick, layoutId }: Perfu
         </div>
       </div>
     </motion.div>
-  )
+  );
 }

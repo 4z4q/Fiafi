@@ -18,6 +18,8 @@ const nextConfig = {
       },
       { protocol: "https", hostname: "**.wikimedia.org" },
     ],
+    minimumCacheTTL: 60 * 60 * 24 * 30, // 30 يوم
+
     unoptimized: true,
   },
   headers: async () => [

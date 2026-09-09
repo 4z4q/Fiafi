@@ -235,7 +235,7 @@ export default function PerfumeModal({ perfume, onClose }: PerfumeModalProps) {
                       transition={{ duration: 0.5 }}
                       className="
                         relative rounded-2xl p-5 overflow-hidden
-                        border border-amber-500/30
+                        border border-amber-500/30-
                         bg-gradient-to-br from-amber-50 to-orange-50/60
                       "
                     >

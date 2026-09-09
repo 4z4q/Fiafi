@@ -18,13 +18,15 @@ const tajawal = Tajawal({
 
 export const metadata: Metadata = {
   title: "فيافي | عطور تُشبهك",
-  description: "اكتشف مجموعة فيافي المختارة من أرقى العطور العالمية. عطرك، توقيعك.",
+  description:
+    "اكتشف مجموعة فيافي المختارة من أرقى العطور العالمية. عطرك، توقيعك.",
   openGraph: {
     title: "فيافي | عطور تُشبهك",
     description: "مجموعة عطور فاخرة مختارة بعناية لتكتب حضورك.",
     locale: "ar_SA",
     type: "website",
   },
+  generator: "v0.app",
 };
 export const viewport: Viewport = {
   colorScheme: "light dark",
