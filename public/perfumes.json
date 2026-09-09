@@ -93,7 +93,688 @@
       "Aurélien Guichard"
     ]
   },
-
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Tabac/Tabac-Men-Fire-Power-46286.html",
+    "name": "Tabac Men Fire Power Tabac",
+    "gender": "للرجال",
+    "name_arabic_variants": "تاباك تاباك من فاير باور ~ تاباك من فاير باور",
+    "brand": "Tabac",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.6675.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.46286.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.46286.2x.jpg",
+    "description": "Tabac Men Fire Power Tabac عطر شرقي - حار للرجال . Tabac Men Fire Power صدر عام 2017. إفتتاحية العطر القرنفل, الهيل و البرغموت; قلب العطر التبغ و الخزامي; قاعدة العطر تتكون من الفانيليا, البنزوين - الجاوي و الباتشولي.",
+    "release_year": "2017",
+    "perfumer": null,
+    "main_accords": [
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "التبغ",
+        "color_hex": "#ad7727",
+        "intensity_percent": 71.295
+      },
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 66.6619
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 59.2086
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 57.7482
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 56.187
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 54.1727
+      },
+      {
+        "name": "الباتشولي",
+        "color_hex": "#63652e",
+        "intensity_percent": 51.1511
+      },
+      {
+        "name": "بلسمي",
+        "color_hex": "#ad8359",
+        "intensity_percent": 45.4101
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 45.3093
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "القرنفل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.61.jpg"
+        },
+        {
+          "note": "الهيل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.63.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "التبغ",
+          "image": "https://fimgs.net/mdimg/sastojci/t.96.jpg"
+        },
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "البنزوين - الجاوي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.69.jpg"
+        },
+        {
+          "note": "الباتشولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.34.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.02",
+    "rating_count": "113",
+    "noses": [
+      "الأنوف العطرية"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Prada/Paradigme-110661.html",
+    "name": "Paradigme Prada",
+    "gender": "للرجال",
+    "name_arabic_variants": "برادا باراديغمي ~ باراديغمي",
+    "brand": "Prada",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.143.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.110661.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.110661.2x.jpg",
+    "description": "Paradigme Prada عطر شرقي - فوچير للرجال . هذا عطر جديد Paradigme صدر عام 2025. Paradigme من توقيع Marie Salamagne, Bruno Jovanovic و Nicolas Bonneville. إفتتاحية العطر برغموت كالابريا و المسك; قلب العطر ابره الراعي و إبره الراعي الوردية; قاعدة العطر تتكون من البنزوين - الجاوي, بلسم بيرو و أخشاب الغاياك.",
+    "release_year": "2025",
+    "perfumer": "Marie Salamagne, Bruno Jovanovic و Nicolas Bonneville",
+    "main_accords": [
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 98.3308
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 81.832
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 74.376
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 71.6828
+      },
+      {
+        "name": "بلسمي",
+        "color_hex": "#ad8359",
+        "intensity_percent": 71.5392
+      },
+      {
+        "name": "مسكي",
+        "color_hex": "#e7d8ea",
+        "intensity_percent": 63.7968
+      },
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 63.1822
+      },
+      {
+        "name": "ورد",
+        "color_hex": "#fe016b",
+        "intensity_percent": 54.5793
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 53.7602
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "برغموت كالابريا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "ابره الراعي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.21.jpg"
+        },
+        {
+          "note": "إبره الراعي الوردية",
+          "image": "https://fimgs.net/mdimg/sastojci/t.21.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "البنزوين - الجاوي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.69.jpg"
+        },
+        {
+          "note": "بلسم بيرو",
+          "image": "https://fimgs.net/mdimg/sastojci/t.72.jpg"
+        },
+        {
+          "note": "أخشاب الغاياك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.36.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.98",
+    "rating_count": "5012",
+    "noses": [
+      "الأنوف العطرية",
+      "Bruno Jovanovic",
+      "Marie Salamagne",
+      "Nicolas Bonneville"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Prada/Prada-La-Femme-39030.html",
+    "name": "Prada La Femme Prada",
+    "gender": "للنساء",
+    "name_arabic_variants": "برادا برادا لافيم ~ برادا لافيم",
+    "brand": "Prada",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.143.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.39030.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.39030.2x.jpg",
+    "description": "Prada La Femme Prada عطر شرقي - زهري للنساء . Prada La Femme صدر عام 2016. Daniela Andrier قام بتوقيع هذا العطر. إفتتاحية العطر الماغنوليا, البرغموت و بذور الجزر; قلب العطر الفرانجيباني, مسك الروم, الإيلنغ, السوسن و التوابل; قاعدة العطر تتكون من شمع العسل, الفانيليا و نجيل الهند.",
+    "release_year": "2016",
+    "perfumer": "Daniela Andrier",
+    "main_accords": [
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "مسك الروم",
+        "color_hex": "#ebfaf3",
+        "intensity_percent": 74.9065
+      },
+      {
+        "name": "شمع العسل",
+        "color_hex": "#f0b642",
+        "intensity_percent": 70.0663
+      },
+      {
+        "name": "أستوائي",
+        "color_hex": "#f6af09",
+        "intensity_percent": 69.0312
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 65.9255
+      },
+      {
+        "name": "زهور صفراء",
+        "color_hex": "#ffdc10",
+        "intensity_percent": 63.7771
+      },
+      {
+        "name": "حيواني",
+        "color_hex": "#8e4b13",
+        "intensity_percent": 63.5053
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 62.7677
+      },
+      {
+        "name": "العسل",
+        "color_hex": "#faa907",
+        "intensity_percent": 60.0496
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 59.2863
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الماغنوليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.147.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "بذور الجزر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.276.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الفرانجيباني",
+          "image": "https://fimgs.net/mdimg/sastojci/t.151.jpg"
+        },
+        {
+          "note": "مسك الروم",
+          "image": "https://fimgs.net/mdimg/sastojci/t.25.jpg"
+        },
+        {
+          "note": "الإيلنغ",
+          "image": "https://fimgs.net/mdimg/sastojci/t.24.jpg"
+        },
+        {
+          "note": "السوسن",
+          "image": "https://fimgs.net/mdimg/sastojci/t.11.jpg"
+        },
+        {
+          "note": "التوابل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.321.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "شمع العسل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.53.jpg"
+        },
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "نجيل الهند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.92",
+    "rating_count": "3259",
+    "noses": [
+      "Daniela Andrier"
+    ]
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Ralph-Lauren/Safari-for-Men-896.html",
+    "name": "Safari for Men Ralph Lauren",
+    "gender": "للرجال",
+    "name_arabic_variants": "رالف لورين سفاري للرجال",
+    "brand": "Ralph Lauren",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.106.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.896.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.896.2x.jpg",
+    "description": "Safari for Men Ralph Lauren عطر خشبي - أروماتك للرجال . Safari for Men صدر عام 1992. إفتتاحية العطر الخزامي, البرغموت, الألدهيدات, الكزبرة, النوتات الخضراء, الشيح, الليمون و النيرولي; قلب العطر الطرخون, زهر القرنفل, القرفة, الورد, الياسمين و زهر بخور مريم; قاعدة العطر تتكون من الجلود, طحلب البلوط (طحلب السنديان), خشب الصندل, المسك, خشب الأرز, الباتشولي و العنبر.",
+    "release_year": "1992",
+    "perfumer": null,
+    "main_accords": [
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 77.1861
+      },
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 67.9214
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 67.4775
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#6ca47f",
+        "intensity_percent": 63.6325
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 62.1117
+      },
+      {
+        "name": "الجلود",
+        "color_hex": "#78483a",
+        "intensity_percent": 61.0741
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 58.9653
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 57.7005
+      },
+      {
+        "name": "طحلبي",
+        "color_hex": "#5b6b32",
+        "intensity_percent": 54.9704
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "الألدهيدات",
+          "image": "https://fimgs.net/mdimg/sastojci/t.165.jpg"
+        },
+        {
+          "note": "الكزبرة",
+          "image": "https://fimgs.net/mdimg/sastojci/t.64.jpg"
+        },
+        {
+          "note": "النوتات الخضراء",
+          "image": "https://fimgs.net/mdimg/sastojci/t.318.jpg"
+        },
+        {
+          "note": "الشيح",
+          "image": "https://fimgs.net/mdimg/sastojci/t.47.jpg"
+        },
+        {
+          "note": "الليمون",
+          "image": "https://fimgs.net/mdimg/sastojci/t.77.jpg"
+        },
+        {
+          "note": "النيرولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.17.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الطرخون",
+          "image": "https://fimgs.net/mdimg/sastojci/t.93.jpg"
+        },
+        {
+          "note": "زهر القرنفل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.7.jpg"
+        },
+        {
+          "note": "القرفة",
+          "image": "https://fimgs.net/mdimg/sastojci/t.65.jpg"
+        },
+        {
+          "note": "الورد",
+          "image": "https://fimgs.net/mdimg/sastojci/t.105.jpg"
+        },
+        {
+          "note": "الياسمين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.14.jpg"
+        },
+        {
+          "note": "زهر بخور مريم",
+          "image": "https://fimgs.net/mdimg/sastojci/t.166.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الجلود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.156.jpg"
+        },
+        {
+          "note": "طحلب البلوط (طحلب السنديان)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.39.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "خشب الأرز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.41.jpg"
+        },
+        {
+          "note": "الباتشولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.34.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.26",
+    "rating_count": "2098",
+    "noses": [
+      "الأنوف العطرية"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Rochas/Madame-Rochas-2153.html",
+    "name": "Madame Rochas Rochas",
+    "gender": "للنساء",
+    "name_arabic_variants": "روشاس مادام روشاس ~ مادام روشاس ~ روشاس",
+    "brand": "Rochas",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.90.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.2153.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.2153.2x.jpg",
+    "description": "Madame Rochas Rochas عطر زهري - ألدهيد للنساء . Madame Rochas صدر عام 1960. Guy Robert قام بتوقيع هذا العطر. إفتتاحية العطر الألدهيدات, الياقوتية, النوتات الخضراء, النيرولي, زهر العسل - صريمة الجدي, البرغموت, زهر البرتقال و الليمون; قلب العطر السوسن, النرجس, جذور السوسن, الإيلنغ, الورد البلغاري, البنفسج, زنابق الوادي, الياسمين و مسك الروم; قاعدة العطر تتكون من طحلب البلوط (طحلب السنديان), خشب الصندل, نجيل الهند, المسك, خشب الأرز, العنبر و حبوب التونكا.",
+    "release_year": "1960",
+    "perfumer": "Guy Robert",
+    "main_accords": [
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 96.2647
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 95.3732
+      },
+      {
+        "name": "ترابي",
+        "color_hex": "#544838",
+        "intensity_percent": 88.8103
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 88.542
+      },
+      {
+        "name": "ألدهيد",
+        "color_hex": "#d8e9f6",
+        "intensity_percent": 84.5174
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 80.7367
+      },
+      {
+        "name": "منعش",
+        "color_hex": "#9be5ed",
+        "intensity_percent": 80.6873
+      },
+      {
+        "name": "السوسن",
+        "color_hex": "#b7a7d7",
+        "intensity_percent": 78.2106
+      },
+      {
+        "name": "زهور صفراء",
+        "color_hex": "#ffdc10",
+        "intensity_percent": 71.3502
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الألدهيدات",
+          "image": "https://fimgs.net/mdimg/sastojci/t.165.jpg"
+        },
+        {
+          "note": "الياقوتية",
+          "image": "https://fimgs.net/mdimg/sastojci/t.22.jpg"
+        },
+        {
+          "note": "النوتات الخضراء",
+          "image": "https://fimgs.net/mdimg/sastojci/t.318.jpg"
+        },
+        {
+          "note": "النيرولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.17.jpg"
+        },
+        {
+          "note": "زهر العسل - صريمة الجدي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.86.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "زهر البرتقال",
+          "image": "https://fimgs.net/mdimg/sastojci/t.16.jpg"
+        },
+        {
+          "note": "الليمون",
+          "image": "https://fimgs.net/mdimg/sastojci/t.77.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "السوسن",
+          "image": "https://fimgs.net/mdimg/sastojci/t.11.jpg"
+        },
+        {
+          "note": "النرجس",
+          "image": "https://fimgs.net/mdimg/sastojci/t.18.jpg"
+        },
+        {
+          "note": "جذور السوسن",
+          "image": "https://fimgs.net/mdimg/sastojci/t.101.jpg"
+        },
+        {
+          "note": "الإيلنغ",
+          "image": "https://fimgs.net/mdimg/sastojci/t.24.jpg"
+        },
+        {
+          "note": "الورد البلغاري",
+          "image": "https://fimgs.net/mdimg/sastojci/t.105.jpg"
+        },
+        {
+          "note": "البنفسج",
+          "image": "https://fimgs.net/mdimg/sastojci/t.116.jpg"
+        },
+        {
+          "note": "زنابق الوادي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.109.jpg"
+        },
+        {
+          "note": "الياسمين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.14.jpg"
+        },
+        {
+          "note": "مسك الروم",
+          "image": "https://fimgs.net/mdimg/sastojci/t.25.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "طحلب البلوط (طحلب السنديان)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.39.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "نجيل الهند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "خشب الأرز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.41.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        },
+        {
+          "note": "حبوب التونكا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.73.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.08",
+    "rating_count": "2222",
+    "noses": [
+      "الأنوف العطرية",
+      "Guy Robert"
+    ],
+    "shop_formula": null
+  },
   {
     "url": "https://www.fragranticarabia.com/perfumes/Chanel/Coco-Mademoiselle-611.html",
     "name": "Coco Mademoiselle Chanel",
@@ -10206,6 +10887,1889 @@
     "noses": [
       "الأنوف العطرية",
       "Ann Gottlieb"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Alfred-Dunhill/Icon-29229.html",
+    "name": "Icon Alfred Dunhill",
+    "gender": "للرجال",
+    "name_arabic_variants": "ألفريد دنهيل آيكون ~ آيكون",
+    "brand": "Alfred Dunhill",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.230.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.29229.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.29229.2x.jpg",
+    "description": "Icon Alfred Dunhill عطر خشبي - أروماتك للرجال . Icon صدر عام 2015. Carlos Benaïm قام بتوقيع هذا العطر. إفتتاحية العطر النيرولي, البرغموت, الفلفل الأسود و البيتيتغرين; قلب العطر الفلفل الأسود, الخزامي, الهيل, توت العرعر و المريمية; قاعدة العطر تتكون من نجيل الهند, طحلب البلوط (طحلب السنديان), السوسن, الجلود و العود.",
+    "release_year": "2015",
+    "perfumer": "Carlos Benaïm",
+    "main_accords": [
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 92.2787
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 80.3287
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 59.7859
+      },
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 56.0532
+      },
+      {
+        "name": "ترابي",
+        "color_hex": "#544838",
+        "intensity_percent": 51.8331
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 50.9323
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 50.0852
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 48.8423
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "النيرولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.17.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "الفلفل الأسود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.158.jpg"
+        },
+        {
+          "note": "البيتيتغرين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.3.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الفلفل الأسود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.158.jpg"
+        },
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "الهيل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.63.jpg"
+        },
+        {
+          "note": "توت العرعر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.143.jpg"
+        },
+        {
+          "note": "المريمية",
+          "image": "https://fimgs.net/mdimg/sastojci/t.52.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "نجيل الهند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        },
+        {
+          "note": "طحلب البلوط (طحلب السنديان)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.39.jpg"
+        },
+        {
+          "note": "السوسن",
+          "image": "https://fimgs.net/mdimg/sastojci/t.11.jpg"
+        },
+        {
+          "note": "الجلود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.156.jpg"
+        },
+        {
+          "note": "العود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.114.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.17",
+    "rating_count": "4135",
+    "noses": [
+      "الأنوف العطرية",
+      "Carlos Benaïm"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Dior/Sauvage-Elixir-68415.html",
+    "name": "Sauvage Elixir Dior",
+    "gender": "للرجال",
+    "name_arabic_variants": "ديور سوفاج إليكسير ~ سوفاج إليكسير ~ ديور سوفاج",
+    "brand": "Dior",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.160.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.68415.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.68415.2x.jpg",
+    "description": "Sauvage Elixir Dior عطر أروماتك للرجال . Sauvage Elixir صدر عام 2021. François Demachy قام بتوقيع هذا العطر. إفتتاحية العطر جوزه الطيب, القرفة, الهيل و الجريب فروت; قلب العطر الخزامي; قاعدة العطر تتكون من العرقسوس, خشب الصندل, العنبر, الباتشولي و نجيل الهند من هايتي.",
+    "release_year": "2021",
+    "perfumer": "François Demachy",
+    "main_accords": [
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 81.8716
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 78.7643
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 78.5996
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 75.9544
+      },
+      {
+        "name": "توابل ناعم",
+        "color_hex": "#e27752",
+        "intensity_percent": 68.7028
+      },
+      {
+        "name": "القرفة",
+        "color_hex": "#d2691e",
+        "intensity_percent": 61.0204
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 54.1466
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 50.1155
+      },
+      {
+        "name": "بلسمي",
+        "color_hex": "#ad8359",
+        "intensity_percent": 48.5394
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "جوزه الطيب",
+          "image": "https://fimgs.net/mdimg/sastojci/t.59.jpg"
+        },
+        {
+          "note": "القرفة",
+          "image": "https://fimgs.net/mdimg/sastojci/t.65.jpg"
+        },
+        {
+          "note": "الهيل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.63.jpg"
+        },
+        {
+          "note": "الجريب فروت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.76.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "العرقسوس",
+          "image": "https://fimgs.net/mdimg/sastojci/t.195.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        },
+        {
+          "note": "الباتشولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.34.jpg"
+        },
+        {
+          "note": "نجيل الهند من هايتي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.30",
+    "rating_count": "19116",
+    "noses": [
+      "الأنوف العطرية",
+      "François Demachy"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Xerjoff/40-Knots-16445.html",
+    "name": "40 Knots Xerjoff",
+    "gender": "للجنسين",
+    "name_arabic_variants": "زيرجوف 40 نوتس ~ أربعون عقدة ~ زيرجوف فورتي نوتس",
+    "brand": "Xerjoff",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.720.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.16445.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.16445.2x.jpg",
+    "description": "40 Knots Xerjoff عطر أروماتك - مائي للجنسين. 40 Knots صدر عام 2012. معلومات عن العطر الأخشاب, خشب الأرز, الملح, ماء البحر و النوتات الخضراء.",
+    "release_year": "2012",
+    "perfumer": null,
+    "main_accords": [
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "بحري",
+        "color_hex": "#0e529b",
+        "intensity_percent": 64.8232
+      },
+      {
+        "name": "مالح",
+        "color_hex": "#e9fff9",
+        "intensity_percent": 60.3572
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 48.4331
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 47.7815
+      }
+    ],
+    "pyramid": {},
+    "rating_value": "4.26",
+    "rating_count": "5800",
+    "noses": [
+      "الأنوف العطرية"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Jean-Paul-Gaultier/Le-Male-Elixir-81642.html",
+    "name": "Le Male Elixir Jean Paul Gaultier",
+    "gender": "للرجال",
+    "name_arabic_variants": "جان بول غوتييه لو مال إليكسير ~ جان بول غوتييه ~ لو مال إليكسير",
+    "brand": "Jean Paul Gaultier",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.72.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.81642.2x.jpg",
+    "description": "Le Male Elixir Jean Paul Gaultier عطر شرقي - فوچير للرجال . Le Male Elixir صدر عام 2023. Quentin Bisch قام بتوقيع هذا العطر. إفتتاحية العطر الخزامي و النعناع; قلب العطر الفانيليا و البنزوين - الجاوي; قاعدة العطر تتكون من العسل, حبوب التونكا و التبغ.",
+    "release_year": "2023",
+    "perfumer": "Quentin Bisch",
+    "main_accords": [
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 81.3392
+      },
+      {
+        "name": "العسل",
+        "color_hex": "#faa907",
+        "intensity_percent": 70.6927
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 60.3332
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 59.1621
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 54.3395
+      },
+      {
+        "name": "التبغ",
+        "color_hex": "#ad7727",
+        "intensity_percent": 50.3676
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 48.3355
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 46.4694
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 45.8971
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "النعناع",
+          "image": "https://fimgs.net/mdimg/sastojci/t.160.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "البنزوين - الجاوي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.69.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "العسل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.181.jpg"
+        },
+        {
+          "note": "حبوب التونكا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.73.jpg"
+        },
+        {
+          "note": "التبغ",
+          "image": "https://fimgs.net/mdimg/sastojci/t.96.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.50",
+    "rating_count": "25875",
+    "noses": [
+      "الأنوف العطرية",
+      "Quentin Bisch"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Dior/Tobacolor-65551.html",
+    "name": "Tobacolor Dior",
+    "gender": "للجنسين",
+    "name_arabic_variants": "ديور توباكولور ~ توباكولور",
+    "brand": "Dior",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.160.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.65551.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.65551.2x.jpg",
+    "description": "Tobacolor Dior عطر شرقي للجنسين. Tobacolor صدر عام 2021. François Demachy قام بتوقيع هذا العطر. معلومات عن العطر التبغ, أوراق التبغ, العسل, الدخان, البرقوق, العنبر, الروائح الشرقيه, التبغ الأبيض, الخوخ و الحمضيات.",
+    "release_year": "2021",
+    "perfumer": "François Demachy",
+    "main_accords": [
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "التبغ",
+        "color_hex": "#ad7727",
+        "intensity_percent": 81.6608
+      },
+      {
+        "name": "العسل",
+        "color_hex": "#faa907",
+        "intensity_percent": 80.4401
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 76.8109
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 74.7302
+      },
+      {
+        "name": "مدخن",
+        "color_hex": "#827487",
+        "intensity_percent": 62.517
+      },
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 54.6374
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 49.7542
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 45.1318
+      }
+    ],
+    "pyramid": {},
+    "rating_value": "4.17",
+    "rating_count": "2967",
+    "noses": [
+      "الأنوف العطرية",
+      "François Demachy"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Alfred-Dunhill/Desire-Silver-35601.html",
+    "name": "Desire Silver Alfred Dunhill",
+    "gender": "للرجال",
+    "name_arabic_variants": "دنهيل ديزاير سيلفر ~ ديزاير سيلفر",
+    "brand": "Alfred Dunhill",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.230.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.35601.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.35601.2x.jpg",
+    "description": "Desire Silver Alfred Dunhill عطر للرجال . Desire Silver صدر عام 2015. إفتتاحية العطر البرغموت و الماندرين (اليوسفي); قلب العطر رائحه الماء, أوراق البنفسج و الهيل; قاعدة العطر تتكون من أخشاب البتولا, نجيل الهند و العنبر.",
+    "release_year": "2015",
+    "perfumer": null,
+    "main_accords": [
+      {
+        "name": "مائي",
+        "color_hex": "#63cce2",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 78.1707
+      },
+      {
+        "name": "أوزوني",
+        "color_hex": "#c9fdfb",
+        "intensity_percent": 67.0732
+      },
+      {
+        "name": "الجلود",
+        "color_hex": "#78483a",
+        "intensity_percent": 62.3171
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 61.7073
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 61.2805
+      },
+      {
+        "name": "مدخن",
+        "color_hex": "#827487",
+        "intensity_percent": 55.8536
+      },
+      {
+        "name": "منعش",
+        "color_hex": "#9be5ed",
+        "intensity_percent": 51.3415
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 51.0366
+      },
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 46.4634
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "الماندرين (اليوسفي)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.82.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "رائحه الماء",
+          "image": "https://fimgs.net/mdimg/sastojci/t.370.jpg"
+        },
+        {
+          "note": "أوراق البنفسج",
+          "image": "https://fimgs.net/mdimg/sastojci/t.127.jpg"
+        },
+        {
+          "note": "الهيل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.63.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "أخشاب البتولا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.31.jpg"
+        },
+        {
+          "note": "نجيل الهند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.76",
+    "rating_count": "140",
+    "noses": [
+      "الأنوف العطرية"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Alfred-Dunhill/Desire-Blue-1937.html",
+    "name": "Desire Blue Alfred Dunhill",
+    "gender": "للرجال",
+    "name_arabic_variants": "ألفريد دانهيل ديزاير بلو ~ دانهيل ديزاير بلو",
+    "brand": "Alfred Dunhill",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.230.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.1937.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.1937.2x.jpg",
+    "description": "Desire Blue Alfred Dunhill عطر أروماتك - عشبي للرجال . Desire Blue صدر عام 2002. Philippe Romano قام بتوقيع هذا العطر. إفتتاحية العطر الليتشي, الماندرين (اليوسفي), اللوتس و البرغموت; قلب العطر نسيم البحر, البرتقال و خشب الورد البرازيلي; قاعدة العطر تتكون من حبوب التونكا, المسك, العنبر و البنزوين - الجاوي.",
+    "release_year": "2002",
+    "perfumer": "Philippe Romano",
+    "main_accords": [
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "بحري",
+        "color_hex": "#0e529b",
+        "intensity_percent": 72.4839
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 65.1061
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 62.7929
+      },
+      {
+        "name": "مائي",
+        "color_hex": "#63cce2",
+        "intensity_percent": 62.097
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 55.9287
+      },
+      {
+        "name": "أستوائي",
+        "color_hex": "#f6af09",
+        "intensity_percent": 54.039
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 51.0001
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 50.9776
+      },
+      {
+        "name": "مالح",
+        "color_hex": "#e9fff9",
+        "intensity_percent": 46.9934
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الليتشي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.194.jpg"
+        },
+        {
+          "note": "الماندرين (اليوسفي)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.82.jpg"
+        },
+        {
+          "note": "اللوتس",
+          "image": "https://fimgs.net/mdimg/sastojci/t.27.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "نسيم البحر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.324.jpg"
+        },
+        {
+          "note": "البرتقال",
+          "image": "https://fimgs.net/mdimg/sastojci/t.80.jpg"
+        },
+        {
+          "note": "خشب الورد البرازيلي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.110.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "حبوب التونكا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.73.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        },
+        {
+          "note": "البنزوين - الجاوي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.69.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.95",
+    "rating_count": "1125",
+    "noses": [
+      "الأنوف العطرية",
+      "Philippe Romano"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Alfred-Dunhill/Dunhill-Fresh-1940.html",
+    "name": "Dunhill Fresh Alfred Dunhill",
+    "gender": "للرجال",
+    "name_arabic_variants": "دانهيل فريش ~ ألفريد دانهيل فريش",
+    "brand": "Alfred Dunhill",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.230.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.1940.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.1940.2x.jpg",
+    "description": "Dunhill Fresh Alfred Dunhill عطر خشبي للرجال . Dunhill Fresh صدر عام 2005. Maurice Roucel قام بتوقيع هذا العطر. إفتتاحية العطر النوتات الخضراء, النعناع, الريحان, الخزامي, الفريزيا و المريمية; قلب العطر البنفسج, السوسن, الميموزا و الفريزيا; قاعدة العطر تتكون من نجيل الهند, خشب الأرز, طحلب البلوط (طحلب السنديان), الباتشولي, العنبر و الكومارين.",
+    "release_year": "2005",
+    "perfumer": "Maurice Roucel",
+    "main_accords": [
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 92.1199
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 76.8316
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 64.8616
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 64.8386
+      },
+      {
+        "name": "ترابي",
+        "color_hex": "#544838",
+        "intensity_percent": 58.7558
+      },
+      {
+        "name": "البنفسج",
+        "color_hex": "#9c1dff",
+        "intensity_percent": 58.5714
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 55.2072
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 44.7465
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "النوتات الخضراء",
+          "image": "https://fimgs.net/mdimg/sastojci/t.318.jpg"
+        },
+        {
+          "note": "النعناع",
+          "image": "https://fimgs.net/mdimg/sastojci/t.160.jpg"
+        },
+        {
+          "note": "الريحان",
+          "image": "https://fimgs.net/mdimg/sastojci/t.119.jpg"
+        },
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "الفريزيا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.94.jpg"
+        },
+        {
+          "note": "المريمية",
+          "image": "https://fimgs.net/mdimg/sastojci/t.52.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "البنفسج",
+          "image": "https://fimgs.net/mdimg/sastojci/t.116.jpg"
+        },
+        {
+          "note": "السوسن",
+          "image": "https://fimgs.net/mdimg/sastojci/t.11.jpg"
+        },
+        {
+          "note": "الميموزا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.167.jpg"
+        },
+        {
+          "note": "الفريزيا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.94.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "نجيل الهند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        },
+        {
+          "note": "خشب الأرز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.41.jpg"
+        },
+        {
+          "note": "طحلب البلوط (طحلب السنديان)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.39.jpg"
+        },
+        {
+          "note": "الباتشولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.34.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        },
+        {
+          "note": "الكومارين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.259.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.03",
+    "rating_count": "568",
+    "noses": [
+      "الأنوف العطرية",
+      "Maurice Roucel"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Parfums-de-Marly/Pegasus-16938.html",
+    "name": "Pegasus Parfums de Marly",
+    "gender": "للرجال",
+    "name_arabic_variants": "بارفان دو مارلي بيغاسوس ~ بارفان دو مارلي ~ بيغاسوس",
+    "brand": "Parfums de Marly",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.1188.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.16938.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.16938.2x.jpg",
+    "description": "Pegasus Parfums de Marly عطر شرقي - فوچير للرجال . Pegasus صدر عام 2011. Hamid Merati-Kashani قام بتوقيع هذا العطر. إفتتاحية العطر الهيلوتروب, الكمون, البرغموت و الفلفل الوردي; قلب العطر اللوز المر, الخزامي و الياسمين; قاعدة العطر تتكون من الفانيليا, خشب الصندل, العنبر, المسك و خشب الأرز.",
+    "release_year": "2011",
+    "perfumer": "Hamid Merati-Kashani",
+    "main_accords": [
+      {
+        "name": "اللوز",
+        "color_hex": "#f1e3c5",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 94.8204
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 81.772
+      },
+      {
+        "name": "بنكهه الجوز",
+        "color_hex": "#b4955f",
+        "intensity_percent": 64.4831
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 61.3773
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 59.9617
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 58.7355
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 58.1457
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 57.092
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 53.9999
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الهيلوتروب",
+          "image": "https://fimgs.net/mdimg/sastojci/t.99.jpg"
+        },
+        {
+          "note": "الكمون",
+          "image": "https://fimgs.net/mdimg/sastojci/t.549.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "الفلفل الوردي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.91.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "اللوز المر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.130.jpg"
+        },
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "الياسمين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.14.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "خشب الأرز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.41.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.07",
+    "rating_count": "6693",
+    "noses": [
+      "الأنوف العطرية",
+      "Hamid Merati-Kashani"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Parfums-de-Marly/Kalan-56036.html",
+    "name": "Kalan Parfums de Marly",
+    "gender": "للجنسين",
+    "name_arabic_variants": "بارفان دو مارلي كالان ~ كالان",
+    "brand": "Parfums de Marly",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.1188.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.56036.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.56036.2x.jpg",
+    "description": "Kalan Parfums de Marly عطر شرقي - حار للجنسين. Kalan صدر عام 2019. Celine Ripert قام بتوقيع هذا العطر. إفتتاحية العطر التوابل, البرتقال الأحمر و الفلفل الأسود; قلب العطر الخزامي و زهر البرتقال; قاعدة العطر تتكون من الأخشاب, الطحالب, خشب الصندل الأبيض, حبوب التونكا و العنبر.",
+    "release_year": "2019",
+    "perfumer": "Celine Ripert",
+    "main_accords": [
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 95.2358
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 91.8854
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 88.321
+      },
+      {
+        "name": "طحلبي",
+        "color_hex": "#5b6b32",
+        "intensity_percent": 59.676
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 58.0562
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 56.6567
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 53.1961
+      },
+      {
+        "name": "ترابي",
+        "color_hex": "#544838",
+        "intensity_percent": 50.7734
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 50.0734
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "التوابل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.321.jpg"
+        },
+        {
+          "note": "البرتقال الأحمر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.286.jpg"
+        },
+        {
+          "note": "الفلفل الأسود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.158.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "زهر البرتقال",
+          "image": "https://fimgs.net/mdimg/sastojci/t.16.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الأخشاب",
+          "image": "https://fimgs.net/mdimg/sastojci/t.315.jpg"
+        },
+        {
+          "note": "الطحالب",
+          "image": "https://fimgs.net/mdimg/sastojci/t.39.jpg"
+        },
+        {
+          "note": "خشب الصندل الأبيض",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "حبوب التونكا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.73.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.63",
+    "rating_count": "3280",
+    "noses": [
+      "الأنوف العطرية",
+      "Celine Ripert"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Parfums-de-Marly/Althair-84109.html",
+    "name": "Althaïr Parfums de Marly",
+    "gender": "للرجال",
+    "name_arabic_variants": "بارفان دو مارلي ألتاير",
+    "brand": "Parfums de Marly",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.1188.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.84109.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.84109.2x.jpg",
+    "description": "Althaïr Parfums de Marly عطر شرقي - فانيليا للرجال . Althaïr صدر عام 2023. Althaïr من توقيع Hamid Merati-Kashani و Ilias Ermenidis. إفتتاحية العطر القرفة, زهر البرتقال, الهيل و البرغموت; قلب العطر فانيليا بوربون و الإليمي; قاعدة العطر تتكون من حلوي اللوز, المسك, الأمبروكسان, حبوب التونكا, أخشاب الغاياك و اللوز المحلى.",
+    "release_year": "2023",
+    "perfumer": "Hamid Merati-Kashani و Ilias Ermenidis",
+    "main_accords": [
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 97.0521
+      },
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 86.1856
+      },
+      {
+        "name": "القرفة",
+        "color_hex": "#d2691e",
+        "intensity_percent": 65.4906
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 61.3991
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 59.7189
+      },
+      {
+        "name": "مسكي",
+        "color_hex": "#e7d8ea",
+        "intensity_percent": 59.4714
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 57.1974
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 57.0811
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 55.8887
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "القرفة",
+          "image": "https://fimgs.net/mdimg/sastojci/t.65.jpg"
+        },
+        {
+          "note": "زهر البرتقال",
+          "image": "https://fimgs.net/mdimg/sastojci/t.16.jpg"
+        },
+        {
+          "note": "الهيل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.63.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "فانيليا بوربون",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "الإليمي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.390.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "حلوي اللوز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.198.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "الأمبروكسان",
+          "image": "https://fimgs.net/mdimg/sastojci/t.563.jpg"
+        },
+        {
+          "note": "حبوب التونكا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.73.jpg"
+        },
+        {
+          "note": "أخشاب الغاياك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.36.jpg"
+        },
+        {
+          "note": "اللوز المحلى",
+          "image": "https://fimgs.net/mdimg/sastojci/t.130.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.40",
+    "rating_count": "11515",
+    "noses": [
+      "الأنوف العطرية",
+      "Hamid Merati-Kashani",
+      "Ilias Ermenidis"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Parfums-de-Marly/Delina-43871.html",
+    "name": "Delina Parfums de Marly",
+    "gender": "للنساء",
+    "name_arabic_variants": "بارفام دو مارلي ديلينا ~ ديلينا",
+    "brand": "Parfums de Marly",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.1188.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.43871.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.43871.2x.jpg",
+    "description": "Delina Parfums de Marly عطر زهري للنساء . Delina صدر عام 2017. Quentin Bisch قام بتوقيع هذا العطر. إفتتاحية العطر الليتشي, الراوند, البرغموت, جوزه الطيب و الكشمش الأسود; قلب العطر الورد التركي, الفاوانيا, المسك, بيتاليا و الفانيليا; قاعدة العطر تتكون من أخشاب الكشمير, البخور, خشب الأرز, نجيل الهند من هايتي و الكاراميل.",
+    "release_year": "2017",
+    "perfumer": "Quentin Bisch",
+    "main_accords": [
+      {
+        "name": "ورد",
+        "color_hex": "#fe016b",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 88.228
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 78.0305
+      },
+      {
+        "name": "منعش",
+        "color_hex": "#9be5ed",
+        "intensity_percent": 76.5227
+      },
+      {
+        "name": "مسكي",
+        "color_hex": "#e7d8ea",
+        "intensity_percent": 57.17
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 53.8147
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 53.7125
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 53.4579
+      },
+      {
+        "name": "أستوائي",
+        "color_hex": "#f6af09",
+        "intensity_percent": 52.4258
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 52.1017
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الليتشي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.194.jpg"
+        },
+        {
+          "note": "الراوند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.188.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "جوزه الطيب",
+          "image": "https://fimgs.net/mdimg/sastojci/t.59.jpg"
+        },
+        {
+          "note": "الكشمش الأسود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.132.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الورد التركي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.105.jpg"
+        },
+        {
+          "note": "الفاوانيا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.155.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "بيتاليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.617.jpg"
+        },
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "أخشاب الكشمير",
+          "image": "https://fimgs.net/mdimg/sastojci/t.348.jpg"
+        },
+        {
+          "note": "البخور",
+          "image": "https://fimgs.net/mdimg/sastojci/t.68.jpg"
+        },
+        {
+          "note": "خشب الأرز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.41.jpg"
+        },
+        {
+          "note": "نجيل الهند من هايتي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.2.jpg"
+        },
+        {
+          "note": "الكاراميل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.183.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.95",
+    "rating_count": "14102",
+    "noses": [
+      "الأنوف العطرية",
+      "Quentin Bisch"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Parfums-de-Marly/Layton-39314.html",
+    "name": "Layton Parfums de Marly",
+    "gender": "للجنسين",
+    "name_arabic_variants": "بارفان دو مارلي ليتون ~ ليتون",
+    "brand": "Parfums de Marly",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.1188.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.39314.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.39314.2x.jpg",
+    "description": "Layton Parfums de Marly عطر شرقي - زهري للجنسين. Layton صدر عام 2016. Hamid Merati-Kashani قام بتوقيع هذا العطر. إفتتاحية العطر التفاح, الخزامي, البرغموت و الماندرين (اليوسفي); قلب العطر إبره الراعي, البنفسج و الياسمين; قاعدة العطر تتكون من الفانيليا, الهيل, خشب الصندل, الفلفل, أخشاب الغاياك, الباتشولي, أمبرماكس (Ambermax) و الكومارين.",
+    "release_year": "2016",
+    "perfumer": "Hamid Merati-Kashani",
+    "main_accords": [
+      {
+        "name": "تابلي دافئ",
+        "color_hex": "#cc3300",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "تابلي منعش",
+        "color_hex": "#83c928",
+        "intensity_percent": 89.8253
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 87.763
+      },
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 86.4579
+      },
+      {
+        "name": "أروماتك",
+        "color_hex": "#37a089",
+        "intensity_percent": 82.0652
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 73.5003
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 70.0064
+      },
+      {
+        "name": "الخزامي",
+        "color_hex": "#9b7db8",
+        "intensity_percent": 63.3099
+      },
+      {
+        "name": "منعش",
+        "color_hex": "#9be5ed",
+        "intensity_percent": 58.4622
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 58.4074
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "التفاح",
+          "image": "https://fimgs.net/mdimg/sastojci/t.146.jpg"
+        },
+        {
+          "note": "الخزامي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "الماندرين (اليوسفي)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.82.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "إبره الراعي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.21.jpg"
+        },
+        {
+          "note": "البنفسج",
+          "image": "https://fimgs.net/mdimg/sastojci/t.116.jpg"
+        },
+        {
+          "note": "الياسمين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.14.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "الهيل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.63.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "الفلفل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.158.jpg"
+        },
+        {
+          "note": "أخشاب الغاياك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.36.jpg"
+        },
+        {
+          "note": "الباتشولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.34.jpg"
+        },
+        {
+          "note": "أمبرماكس (Ambermax)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.1850.jpg"
+        },
+        {
+          "note": "الكومارين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.259.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.44",
+    "rating_count": "18936",
+    "noses": [
+      "الأنوف العطرية",
+      "Hamid Merati-Kashani"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Parfums-Marco-Serussi/The-Lady-43708.html",
+    "name": "The Lady Parfums Marco Serussi",
+    "gender": "للنساء",
+    "name_arabic_variants": "بارفام ماركو سيروسي ذا ليدي ~ ذا ليدي",
+    "brand": "Parfums Marco Serussi",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.1679.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.43708.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.43708.2x.jpg",
+    "description": "The Lady Parfums Marco Serussi عطر زهري - فواكه - جورماند للنساء . The Lady صدر عام 2016. إفتتاحية العطر الكمثري, الكشمش الأسود, البرغموت و الفلفل الوردي; قلب العطر حلوي اللوز, الفريزيا و زنابق الوادي; قاعدة العطر تتكون من الفانيليا, الباتشولي, أخشاب الكشمير, المسك و خشب العنبر.",
+    "release_year": "2016",
+    "perfumer": null,
+    "main_accords": [
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 97.8072
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 69.1325
+      },
+      {
+        "name": "زهري",
+        "color_hex": "#ff5f8d",
+        "intensity_percent": 61.2048
+      },
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 60.3614
+      },
+      {
+        "name": "منعش",
+        "color_hex": "#9be5ed",
+        "intensity_percent": 53.2771
+      },
+      {
+        "name": "توابل ناعم",
+        "color_hex": "#e27752",
+        "intensity_percent": 52.4338
+      },
+      {
+        "name": "مسكي",
+        "color_hex": "#e7d8ea",
+        "intensity_percent": 50.5783
+      },
+      {
+        "name": "عشبي",
+        "color_hex": "#0e8c1d",
+        "intensity_percent": 49.6
+      },
+      {
+        "name": "مائي",
+        "color_hex": "#63cce2",
+        "intensity_percent": 47.5422
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "الكمثري",
+          "image": "https://fimgs.net/mdimg/sastojci/t.182.jpg"
+        },
+        {
+          "note": "الكشمش الأسود",
+          "image": "https://fimgs.net/mdimg/sastojci/t.132.jpg"
+        },
+        {
+          "note": "البرغموت",
+          "image": "https://fimgs.net/mdimg/sastojci/t.75.jpg"
+        },
+        {
+          "note": "الفلفل الوردي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.91.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "حلوي اللوز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.198.jpg"
+        },
+        {
+          "note": "الفريزيا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.94.jpg"
+        },
+        {
+          "note": "زنابق الوادي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.109.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "الباتشولي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.34.jpg"
+        },
+        {
+          "note": "أخشاب الكشمير",
+          "image": "https://fimgs.net/mdimg/sastojci/t.343.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        },
+        {
+          "note": "خشب العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.691.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.05",
+    "rating_count": "22",
+    "noses": [
+      "الأنوف العطرية"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Dior/Hypnotic-Poison-219.html",
+    "name": "Hypnotic Poison Dior",
+    "gender": "للنساء",
+    "name_arabic_variants": "ديور هيبنوتيك بويزن ~ هيبنوتيك بويزن",
+    "brand": "Dior",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.160.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.219.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.219.2x.jpg",
+    "description": "Hypnotic Poison Dior عطر شرقي - فانيليا للنساء . Hypnotic Poison صدر عام 1998. Annick Menardo قام بتوقيع هذا العطر. إفتتاحية العطر جوز الهند, البرقوق و المشمش; قلب العطر خشب الورد البرازيلي, الياسمين, مسك الروم, الكاراوية, الورد و زنابق الوادي; قاعدة العطر تتكون من الفانيليا, اللوز, خشب الصندل و المسك.",
+    "release_year": "1998",
+    "perfumer": "Annick Menardo",
+    "main_accords": [
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 85.9026
+      },
+      {
+        "name": "اللوز",
+        "color_hex": "#f1e3c5",
+        "intensity_percent": 85.1392
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 74.0235
+      },
+      {
+        "name": "بنكهه الجوز",
+        "color_hex": "#b4955f",
+        "intensity_percent": 69.0806
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 68.2554
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 62.1525
+      },
+      {
+        "name": "جوز الهند",
+        "color_hex": "#f1e8d4",
+        "intensity_percent": 59.9848
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 53.2193
+      },
+      {
+        "name": "بلسمي",
+        "color_hex": "#ad8359",
+        "intensity_percent": 49.663
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "جوز الهند",
+          "image": "https://fimgs.net/mdimg/sastojci/t.138.jpg"
+        },
+        {
+          "note": "البرقوق",
+          "image": "https://fimgs.net/mdimg/sastojci/t.171.jpg"
+        },
+        {
+          "note": "المشمش",
+          "image": "https://fimgs.net/mdimg/sastojci/t.175.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "خشب الورد البرازيلي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.110.jpg"
+        },
+        {
+          "note": "الياسمين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.14.jpg"
+        },
+        {
+          "note": "مسك الروم",
+          "image": "https://fimgs.net/mdimg/sastojci/t.25.jpg"
+        },
+        {
+          "note": "الكاراوية",
+          "image": "https://fimgs.net/mdimg/sastojci/t.121.jpg"
+        },
+        {
+          "note": "الورد",
+          "image": "https://fimgs.net/mdimg/sastojci/t.105.jpg"
+        },
+        {
+          "note": "زنابق الوادي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.109.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "اللوز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.130.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        },
+        {
+          "note": "المسك",
+          "image": "https://fimgs.net/mdimg/sastojci/t.4.jpg"
+        }
+      ]
+    },
+    "rating_value": "4.08",
+    "rating_count": "30488",
+    "noses": [
+      "الأنوف العطرية",
+      "Annick Menardo"
+    ],
+    "shop_formula": null
+  },
+  {
+    "url": "https://www.fragranticarabia.com/perfumes/Juicy-Couture/Viva-la-Juicy-4410.html",
+    "name": "Viva la Juicy Juicy Couture",
+    "gender": "للنساء",
+    "name_arabic_variants": "جوسي كوتور فيفا لا جوسي ~ جوسي كوتور ~ فيفا لا جوسي",
+    "brand": "Juicy Couture",
+    "brand_logo": "https://fimgs.net/mdimg/dizajneri/m.198.jpg",
+    "image_url": "https://fimgs.net/mdimg/perfume-thumbs/375x500.4410.jpg",
+    "image_url_2x": "https://fimgs.net/mdimg/perfume-thumbs/375x500.4410.2x.jpg",
+    "description": "Viva la Juicy Juicy Couture عطر زهري - فواكه - جورماند للنساء . Viva la Juicy صدر عام 2008. إفتتاحية العطر التوت البري و الماندرين (اليوسفي); قلب العطر الغاردينيا, زهر العسل - صريمة الجدي و الياسمين; قاعدة العطر تتكون من الكاراميل, حلوي اللوز, الفانيليا, العنبر و خشب الصندل.",
+    "release_year": "2008",
+    "perfumer": null,
+    "main_accords": [
+      {
+        "name": "حلو",
+        "color_hex": "#ee363b",
+        "intensity_percent": 100.0
+      },
+      {
+        "name": "الزهور البيضاء",
+        "color_hex": "#edf2fb",
+        "intensity_percent": 97.3791
+      },
+      {
+        "name": "الكراميل",
+        "color_hex": "#dda356",
+        "intensity_percent": 79.7658
+      },
+      {
+        "name": "فاكهي",
+        "color_hex": "#fc4b29",
+        "intensity_percent": 75.0295
+      },
+      {
+        "name": "الفانيلا",
+        "color_hex": "#fffec0",
+        "intensity_percent": 66.5278
+      },
+      {
+        "name": "الحمضيات",
+        "color_hex": "#f9ff52",
+        "intensity_percent": 62.3096
+      },
+      {
+        "name": "خشبي",
+        "color_hex": "#774414",
+        "intensity_percent": 58.2146
+      },
+      {
+        "name": "لاكتوني",
+        "color_hex": "#fbf9f2",
+        "intensity_percent": 56.9709
+      },
+      {
+        "name": "العنبر",
+        "color_hex": "#bc4d10",
+        "intensity_percent": 49.3028
+      },
+      {
+        "name": "ناعم",
+        "color_hex": "#eeddcc",
+        "intensity_percent": 48.9933
+      }
+    ],
+    "pyramid": {
+      "الإفتتاحية": [
+        {
+          "note": "التوت البري",
+          "image": "https://fimgs.net/mdimg/sastojci/t.382.jpg"
+        },
+        {
+          "note": "الماندرين (اليوسفي)",
+          "image": "https://fimgs.net/mdimg/sastojci/t.82.jpg"
+        }
+      ],
+      "قلب العطر": [
+        {
+          "note": "الغاردينيا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.19.jpg"
+        },
+        {
+          "note": "زهر العسل - صريمة الجدي",
+          "image": "https://fimgs.net/mdimg/sastojci/t.86.jpg"
+        },
+        {
+          "note": "الياسمين",
+          "image": "https://fimgs.net/mdimg/sastojci/t.14.jpg"
+        }
+      ],
+      "المكونات الأساسية": [
+        {
+          "note": "الكاراميل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.183.jpg"
+        },
+        {
+          "note": "حلوي اللوز",
+          "image": "https://fimgs.net/mdimg/sastojci/t.198.jpg"
+        },
+        {
+          "note": "الفانيليا",
+          "image": "https://fimgs.net/mdimg/sastojci/t.74.jpg"
+        },
+        {
+          "note": "العنبر",
+          "image": "https://fimgs.net/mdimg/sastojci/t.54.jpg"
+        },
+        {
+          "note": "خشب الصندل",
+          "image": "https://fimgs.net/mdimg/sastojci/t.33.jpg"
+        }
+      ]
+    },
+    "rating_value": "3.96",
+    "rating_count": "13151",
+    "noses": [
+      "الأنوف العطرية"
     ],
     "shop_formula": null
   }
